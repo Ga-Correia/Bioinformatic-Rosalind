@@ -1,7 +1,7 @@
 # Bioinformatic-Rosalind
  Resolução de exercícios selecionados da plataforma Rosalind: http://rosalind.info, durante a disciplina de Bioinformática Avançada.
  
- Da pasta "atv2" até "atv19" existe no mínimo 2 implementações diferentes a atividade proposta.
+ Da pasta "atv2" até "atv19" existe no mínimo 2 implementações diferentes da atividade proposta.
  
  - atv2: https://rosalind.info/problems/ini3/?class=1065
  - atv3: https://rosalind.info/problems/ini4/?class=1065
